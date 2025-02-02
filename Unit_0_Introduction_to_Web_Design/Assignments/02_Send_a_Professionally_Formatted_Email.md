@@ -13,7 +13,7 @@ You may select one of the examples above or a different purpose of your own, but
 ## Part 2: Craft Your Email
 
 1. Navigate to your nycstudents.net account and start a new email.<br><i>(In general, always remember to use a professional email account)</i>.
-2. Include a descriptive, but short subject.<br>(1 to 3 words is generally a good length for a subject...5 words is usually too long...10 words is **always** too long!) 
+2. Include a descriptive, but short subject. 
 4. Draft your email.  Remember to keep the following guidelines in mind:
 
     * Start with a professional greeting.
@@ -36,7 +36,7 @@ You may select one of the examples above or a different purpose of your own, but
 * Does it have a professional appearance?
 * Is there anything you have left out?
 * Are there any final changes you need to make before clicking send?
-* What is your mindset? <br><br>Remember...Never send an email when you are angry. **Once you have clicked 'Send', you can't take it back!** 
+* What is your mindset? <br><br>Remember...Never send an email when you are angry. **Once you click "Send", you can't take it back!** 
 
 ## Part 4: Send your email
 1. Address your email `To:` Mr. Swotinsky, **jswotinsky@schools.nyc.gov**.
