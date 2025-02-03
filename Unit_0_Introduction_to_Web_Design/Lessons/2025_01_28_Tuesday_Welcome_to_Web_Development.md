@@ -6,7 +6,7 @@ Tuesday, January 28th 2025
 **AIM:** What is Introduction to Web Development all about, what is expected of us in Introduction to Web Development, and what strategies can we implement to achieve success this semester?
 
 **OUTCOME ALIGNMENT:**
-<br><ins>IEC.TQS11T.1</ins>: Model Employability Skills such as personal mindset, planning for success, and collaboration.
+<br><ins>IEC.TQS11T.6</ins>: Model Employability Skills such as personal mindset, planning for success, and collaboration.
 
 **SUCCESS CRITERIA:**
 - [ ] I can articulate what Introduction to Web Development is all about, what is expected of me as a student, and what strategies I can implement to achieve success this year.
