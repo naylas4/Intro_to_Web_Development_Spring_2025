@@ -19,7 +19,7 @@ Friday, January 31st 2025
 **AGENDA:**
 
 1. Email Showcase - Glows, Grows, and Questions
-2. Characteristics of a Professional EMail
+2. Characteristics of a Professional Email
 3. Send a Professionally Formatted Email
 
 **ASSIGNMENT:** 
