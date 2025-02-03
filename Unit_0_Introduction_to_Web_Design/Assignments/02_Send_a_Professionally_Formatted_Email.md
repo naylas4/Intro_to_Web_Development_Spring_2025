@@ -10,7 +10,7 @@ Due: Monday, February 3rd 2025
 
 You may select one of the examples above or a different purpose of your own, but be sure your email has a purpose!
 
-## Part 2: Craft Your Email
+## Step 2: Craft Your Email
 
 1. Navigate to your nycstudents.net account and start a new email.<br><i>(In general, always remember to use a professional email account)</i>.
 2. Include a descriptive, but short subject. 
@@ -28,7 +28,7 @@ You may select one of the examples above or a different purpose of your own, but
      * Your Organization
      * Your Email Address
 
-## Part 3: Review Your Email
+## Step 3: Review Your Email
 
 * Is your purpose clear?
 * Does it meet the guidelines above?
@@ -38,7 +38,7 @@ You may select one of the examples above or a different purpose of your own, but
 * Are there any final changes you need to make before clicking send?
 * What is your mindset? <br><br>Remember...Never send an email when you are angry. **Once you click "Send", you can't take it back!** 
 
-## Part 4: Send your email
+## Step 4: Send your email
 1. Address your email `To:` Mr. Swotinsky, **jswotinsky@schools.nyc.gov**.
 2. `Cc:` your email to Ms. Espiritu, **vespiritu@schools.nyc.gov**.
 3.  Click 'Send'!
