@@ -6,7 +6,7 @@ Friday, January 31st 2025
 **AIM:** What is the professional way to format an email?
 
 **OUTCOME ALIGNMENT:**
-<br><ins>IEC.TQS11T.1</ins>: Model Employability Skills such as personal mindset, planning for success, and collaboration.
+<br><ins>IEC.TQS11T.6</ins>: Model Employability Skills such as personal mindset, planning for success, and collaboration.
 
 **SUCCESS CRITERIA:**
 - [ ] I can describe the characteristics of a professionally formatted email.
