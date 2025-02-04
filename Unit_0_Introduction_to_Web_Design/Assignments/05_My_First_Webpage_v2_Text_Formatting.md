@@ -8,9 +8,11 @@ Due: Friday, February 7th 2025
 3. **Bold** (`<b></b>`) some text to add emphasis.
 4. *Italicize* (`<i></i>`) some text to add emphasis.
 5. <ins>Underline</ins> (`<u></u>`) some text to add emphasis.
-6.  Add at least two types of text formatting to some text on your page.  For example, ***Bold and italic***, (`<b><i></i></b>`).
-7.  Add a block quote (`<blockquote></blockquote>`)from an outside source to your page.
-8.  Add a a citation for block quote using a superscript (`<sup></sup>`) at the end of your block quote, and a citation starting with the same superscript at the bottom of your page.    
+6. <mark>Highlight</mark> (`<mark></mark>`) or <del>delete</del> (`<del></del>`) some text.
+7. Modify some of your text so that it is not only bold, but also emphasized by screen readers. (Hint: Use `<strong></strong>`
+8. Add at least two types of text formatting to some text on your page.  For example, ***Bold and italic***, (`<b><i></i></b>`).
+9. Add a block quote (`<blockquote></blockquote>`)from an outside source to your page.
+10. Add a a citation for block quote using a superscript (`<sup></sup>`) at the end of your block quote, and a citation starting with the same superscript at the bottom of your page.    
 
 [Click here](https://mrjswotinsky.github.io/HTML_v2_sample.html) to see what you page should look like after you have completed this assignment.
 
