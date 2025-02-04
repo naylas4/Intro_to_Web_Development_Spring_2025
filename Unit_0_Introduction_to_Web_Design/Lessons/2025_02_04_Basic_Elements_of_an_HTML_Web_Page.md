@@ -21,10 +21,10 @@ Tuesday, February 4th 2025
 1. Personal Passion Shareout
 2. Basic Elements of an HTML Webpage
     * `<!DOCTYPE html>`
-    * `<HTML></HTML>`
-    * `<HEAD></HEAD>`
-    * `<BODY></BODY>`
-    * `<TITLE></TITLE>`
+    * `<html></html>`
+    * `<head></head>`
+    * `<body></body>`
+    * `<title></title>`
 3. Start Tags and End Tags
 4. Nesting
 5. Build a Paper Webpage
@@ -40,13 +40,13 @@ Tuesday, February 4th 2025
 |**Nesting**|HTML elements can be **nested** inside of each other.<br><br>For major elements of a webpage, indentation should be used for nesting to make code more readable.|
 
 **Nesting Example:**
-In the example below, the `<HEAD></HEAD>` element is nested inside the `<HTML></HTML>` element using indentation.
+In the example below, the `<head></head>` element is nested inside the `<HTML></HTML>` element using indentation.
 
 ```HTML
-<HTML>
-  <HEAD>
-  </HEAD>
-<HTML>
+<html>
+  <head>
+  </head>
+<html>
 ```
 
 **Code Reference**
@@ -54,7 +54,7 @@ In the example below, the `<HEAD></HEAD>` element is nested inside the `<HTML></
 |Code|Description|
 |---|---|
 |`<!DOCTYPE html>`|`<!DOCTYPE html>` should be included at the top of every HTML file.<br><br>`<!DOCTYPE html>` declares the file as an HTML file so that the browser knows it is HTML.|
-|`<HTML></HTML>`|serves as the main container for all HTML.|
-|`<HEAD></HEAD>`|contains meta information.<br><br>For example, `<TITLE></TITLE>` is contained within `<HEAD></HEAD>`.|
-|`<BODY></BODY>`|contains the content to be displayed in the browser.|
-|`<TITLE></TITLE>`|contains the title of the webpage.|
+|`<html></html>`|serves as the main container for all HTML.|
+|`<head></head>`|contains meta information.<br><br>For example, `<TITLE></TITLE>` is contained within `<HEAD></HEAD>`.|
+|`<body></body>`|contains the content to be displayed in the browser.|
+|`<title></title>`|contains the title of the webpage.|
