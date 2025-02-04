@@ -30,7 +30,7 @@ Tuesday, February 4th 2025
 5. Build a Paper Webpage
 
 **ASSIGNMENT:** 
-<br>[Unit 0 Assignment 03 - My First Webpage, Version 0](https://github.com/MrJSwotinsky/Intro_to_Web_Development_Spring_2025/blob/main/Unit_0_Introduction_to_Web_Design/Assignments/03_My_First_Webpage_Version0.md)
+<br>[Unit 0 Assignment 03 - My First Webpage, Version 0](https://github.com/MrJSwotinsky/Intro_to_Web_Development_Spring_2025/blob/main/Unit_0_Introduction_to_Web_Design/Assignments/03_My_First_Webpage_v0.md)
 
 ## Resources
 **Notes**
