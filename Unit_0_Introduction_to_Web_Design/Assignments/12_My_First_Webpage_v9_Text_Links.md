@@ -7,8 +7,8 @@ Due: Tuesday, February 25th 2025
 2. Replace the code in the editor with the most recent version of your code saved in the file `LastNameFirstInitial_My_First_Webpage.html`.
 3. Use `<a></a>` tags and the `href` attribute to add at least two text links to your webpage.
     * For each link, set the value of the `href` attribute to the URL of the webpage the text will link to.
-    * At least one link should open a new webpage or website in the **same** window.
-    * At least one link should open a new webpage or website in a **different** window.
+    * At least one link should open a new webpage or website in the **same** window. 
+    * At least one link should open a new webpage or website in a **different** window. (Hint: Set the `target` attribute to `_blank`.)
 
 [Click here](https://mrjswotinsky.github.io/HTML_v9_sample.html) to see what you page should look like after you have completed this assignment.
 
