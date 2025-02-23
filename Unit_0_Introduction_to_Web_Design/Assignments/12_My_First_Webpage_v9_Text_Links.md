@@ -12,7 +12,7 @@ Due: Tuesday, February 25th 2025
 
 [Click here](https://mrjswotinsky.github.io/HTML_v9_sample.html) to see what you page should look like after you have completed this assignment.
 
-## Submit Version 8 of Your Webpage
+## Submit Version 9 of Your Webpage
 
 1. Sign in to your GitHub account.
 2. Navigate to your GitHub portfolio.
