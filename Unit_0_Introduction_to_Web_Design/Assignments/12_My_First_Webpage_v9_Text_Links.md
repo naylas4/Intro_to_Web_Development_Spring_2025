@@ -1,7 +1,7 @@
 # Unit 0, Assignment 12: My First Webpage, Version 9 - Text Links
 Due: Tuesday, February 25th 2025
 
-## Add a Text Link
+## Add Text Links
 
 1. [Click here](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro) to navigate to the W3SChools sandbox.
 2. Replace the code in the editor with the most recent version of your code saved in the file `LastNameFirstInitial_My_First_Webpage.html`.
